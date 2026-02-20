@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+
+# Build output
+www/
+dist/
+/tmp/
+/out-tsc/
+
+# Ionic
+.ionic/
+platforms/
+plugins/
+.sourcemaps/
+
+# Angular
+.angular/
+.nx/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.launch
+.project
+.classpath
+.settings/
+.c9/
+.history/
+
+# Logs
+*.log
+npm-debug.log
+yarn-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Misc
+*.sw[mnpcod]
+*~
+*.tmp
+*.tmp.*
+.tmp/
+.sass-cache/
+coverage/
+testem.log
